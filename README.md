@@ -1,14 +1,14 @@
 # Html5WebView
 Android WebView
 
-WebView在现在的项目中使用的频率应该还是非常高的。我个人总觉得HTML5是一种趋势。找了一些东西，在此总结。
+WebView should be used very frequently in current projects. I personally feel that HTML5 is a trend. I found something and summarized it here.
 
-本 Demo 中的 Html5WebView 可以复制走直接使用，Html5Activity 中也有简单的使用方式。更多的具体设置，可以看文章介绍。
+The Html5WebView in this demo can be copied and used directly, and there is a simple way to use it in Html5Activity. For more specific settings, see the article introduction.
 
-### 文章：[WebView使用介绍](http://www.jianshu.com/p/3fcf8ba18d7f)
+### 文章：[WebView App Intro (https://www.visar.co.za)
 
-### App下载：[全屏浏览器](http://fir.im/2xmq)
+### App下载：[Full screen browser](http://visar.co.za#ap)
 
 示例图（全屏的网页）：
 
-![](https://github.com/Wing-Li/Html5WebView/blob/master/img/pic.png)
+![](https://github.com/Wing-Li/Html5WdfdfsebView/blob/master/img/pic.png)
